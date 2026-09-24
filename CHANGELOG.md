@@ -15,7 +15,7 @@
   * Fix: `toJson()` now serializes `@XmlAnyElement` wildcard content as raw XML instead of an empty `{}`, and `fromJson()` restores it back to a DOM Element (round-trippable)
 
 ### 10.4.0 - May 2026
-  * SWIFT Standard release update 2026 (live 14 November 2026)
+  * SWIFT Standard release update 2026 (live 12 June 2027, original November 2026 release postponed) 
   * Yearly revision of deprecation phase (see https://dev.prowidesoftware.com/SRU2024/getting-started/deprecation/)
 
 ### 10.3.8 - May 2026
